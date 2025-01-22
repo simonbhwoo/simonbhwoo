@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonbhwoo
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, SAP ERP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me simonbhwoo@hotmail.com
