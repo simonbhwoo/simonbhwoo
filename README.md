@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonbhwoo
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Oython
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me simonbhwoo@hotmail.com
 <!---
